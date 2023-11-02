@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bernard Anhwere
-- 👀 I’m interested in Python, R, water modeling and chess
+- 👀 I’m interested in Python, R, water modeling, statistical learning and chess
 - 🌱 I’m currently learning machine learning and how to use github
 - 💞️ I’m looking to collaborate on any water research project
 - 📫 Reach me on email: anhwereb@gmail.com
